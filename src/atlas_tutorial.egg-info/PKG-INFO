@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: atlas-tutorial
+Version: 0.1.0
+Summary: 一个学习用的AI Agent框架
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+26.6.23学习切换本地的新分支
